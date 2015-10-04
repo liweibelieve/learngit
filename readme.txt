@@ -1,2 +1,2 @@
 this is a git test readme file
-add a test line
+Git is free software distributed under GPL
